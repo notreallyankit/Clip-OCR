@@ -36,5 +36,5 @@ It allows users to quickly convert visual text (documents, code snippets, screen
    pip install -r requirements.txt
 
 3. **Install Tesseract OCR**
-   git clone https://github.com/<your-username>/ClipOCR.git
-   cd ClipOCR
+   
+
